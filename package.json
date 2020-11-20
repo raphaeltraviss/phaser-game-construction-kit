@@ -1,7 +1,7 @@
 {
-  "name": "phaser-game-construction-kit",
+  "name": "phaser-game-contruction-kit",
   "version": "1.0.0",
-  "description": "demo",
+  "description": "Async, event-driven, statechart-driven entity/component system for quickly scaffolding 2D web games.",
   "main": "src/index.html",
   "scripts": {
     "build": "parcel build src/index.html --public-url ./",
@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/parcel-env": "0.0.0",
+    "parcel": "1.12.4",
     "phaser": "^3.17.0",
     "typescript": "4.0.5",
     "xstate": "4.14.0"

@@ -2,6 +2,15 @@
 
 This kit will allow you to quickly create a PhaserJS 2D game that runs in the browser. It contains a set of components for basic things (health, hit, input, movement, animation).
 
+## How do I run this?
+
+```
+git clone https://github.com/raphaeltraviss/phaser-game-construction-kit.git
+cd phaser-game-construction-kit
+npm install
+npm start
+```
+
 ## Why is this useful?
 
 Phaser contains the raw game engine, and expects you to build your own game logic on top of it. This is a great opportunity for your creativity to flourish in that space, but there also seems to be a lack of guidance on viable game architectures.
